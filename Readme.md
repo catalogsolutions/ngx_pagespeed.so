@@ -16,8 +16,6 @@ $ cd tmp
 
 ### Copy to 
 
-If your operating system is Ubuntu16.04, and you install nginx with `sudo apt-get install nginx` directly, (maybe you should run `sudo apt-get update && apt-get upgrade nginx` first), run
-
 ```cmd
 $ sudo mkdir /usr/share/nginx/modules
 $ cp ./ngx_pagespeed.so /usr/share/nginx/modules/
