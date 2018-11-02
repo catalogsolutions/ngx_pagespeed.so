@@ -1,7 +1,8 @@
 # ngx_pagespeed.so
 nginx dynamic module ngx_pagespeed.so
 
-Built for nginx 1.10.3 that ships with Ubuntu 16.04LTS
+/Ubuntu18/ Built for nginx 1.14.0 that ships with Ubuntu 18.04LTS
+/Ubuntu16/ Built for nginx 1.10.3 that ships with Ubuntu 16.04LTS
 
 ## Usage
 
